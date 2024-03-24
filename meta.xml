@@ -1,0 +1,10 @@
+<meta>
+     <info author="robott" type="gamemode" name="anims replacement example" />
+     <oop>true</oop>
+
+     <script src="server/main.lua" type="server" />
+     
+     <script src="client/custom_anims.lua" type="client" />
+
+     <file src="client/files/anims/ped.ifp" download="true" />
+</meta>
